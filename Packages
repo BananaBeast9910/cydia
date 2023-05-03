@@ -2,12 +2,12 @@ Package: org.mr.ncontrol
 Version: 1.9.6-9
 Section: Tweaks
 Maintainer: Banana Beast <bananabeast9910@outlook.com>
-Depends: firmware (<12.5.7)
+Depends: firmware (<16)
 Architecture: iphoneos-arm
 Filename: ./debs/org.mr.ncontrol_1.9.6-9.deb
 Size: 860
 MD5sum: 146e1f348984bf9105a4f749e7c0e81e
-Description: This is a sample old package. Firmware should be lower than 14
+Description: This is meant for devices with no controller support from Apple. IOS firmware should be lower than 16
 Name: nControl
 Author: Kevin Bradley & Luca Todesco
 Depiction: https://bananabeast9910.github.io/repo/depictions/?p=org.mr.ncontrol
