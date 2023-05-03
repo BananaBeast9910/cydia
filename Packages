@@ -6,7 +6,7 @@ Depends: firmware (<12.5.7)
 Architecture: iphoneos-arm
 Filename: ./debs/org.mr.ncontrol_1.9.6-9.deb
 Size: 860
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 146e1f348984bf9105a4f749e7c0e81e
 Description: This is a sample old package. Firmware should be lower than 14
 Name: nControl
 Author: Kevin Bradley & Luca Todesco
