@@ -12,17 +12,17 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: org.mr.ncontrol
+Version: 1.9.6-9
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: Banana Beast <bananabeast9910@outlook.com>
+Depends: firmware (<12.5.7)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/debs/org.mr.ncontrol_1.9.6-9.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Description: This is a sample old package. Firmware should be lower than 12.5.7
+Name: nControl
+Author: Kevin Bradley & Luca Todesco
+Depiction: https://bananabeast9910.github.io/repo/depictions/?p=org.mr.ncontrol
 
