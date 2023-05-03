@@ -1,1 +1,23 @@
-
+<package>
+	<id>org.mr.ncontrol</id>
+	<name>nControle</name>
+	<version>1.9.6-9</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>8.0-14</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Adds coontroller configurations to unsupported devices.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
