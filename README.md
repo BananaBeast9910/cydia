@@ -1,4 +1,4 @@
-## Archived
+## Repository
 
 This is my first repository for Cydia. Some packages are still under development as of 05/03/23
 
